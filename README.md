@@ -21,5 +21,16 @@ Tugas_Praktikum_Python/
     │   ├── __init__.py
     │   └── crud_service.py
     └── utils/
+Deskripsi Singkat
+Soal 1 - 3: Berisi modul helper statistik, utilitas akademik, dan fungsi validator dasar.
+
+Soal 4 (Package): Berisi struktur nested package sistem_informasi yang terdiri dari modul model, service (CRUD data mahasiswa), dan utils (validasi NIM).
+
+jalankan_app.py: Skrip utama untuk menguji fungsionalitas package sistem informasi.
+
+Identitas Mahasiswa
+Nama: Tazkia Rizqiani
+Npm : 20241320010
+Program Studi: Sistem Informasi
         ├── __init__.py
         └── validator.py
