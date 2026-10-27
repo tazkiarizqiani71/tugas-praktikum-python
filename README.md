@@ -21,6 +21,8 @@ Tugas_Praktikum_Python/
     │   ├── __init__.py
     │   └── crud_service.py
     └── utils/
+        ├── __init__.py
+        └── validator.py
 Deskripsi Singkat
 Soal 1 - 3: Berisi modul helper statistik, utilitas akademik, dan fungsi validator dasar.
 
@@ -32,5 +34,3 @@ Identitas Mahasiswa
 Nama: Tazkia Rizqiani
 Npm : 20241320010
 Program Studi: Sistem Informasi
-        ├── __init__.py
-        └── validator.py
